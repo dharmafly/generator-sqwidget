@@ -33,7 +33,7 @@ module.exports = function(grunt) {
           paths: {
             i18n: 'lib/requirejs-i18n/i18n',
             text: 'lib/requirejs-text/text',
-            core: 'lib/pa-olympics-core/dist/pa-olympics-core',
+            "amd-loader": "lib/requirejs-ractive/amd-loader",
             rv: 'lib/requirejs-ractive/rv',
             Ractive: 'lib/ractive/build/Ractive'
           },

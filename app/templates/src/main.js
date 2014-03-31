@@ -2,7 +2,7 @@ define([
   'require',
   'i18n!./nls/strings',
   // 'css!compiled/css/main.css',
-  'rv!templates/index.html'
+  'rv!templates/index'
 ], function(require, strings, template ) {
 
   var Ractive = require("Ractive");
