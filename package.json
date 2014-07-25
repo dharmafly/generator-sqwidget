@@ -4,7 +4,7 @@
   "description": "Generator for buiding third-party widgets using Sqwidget",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "adhipg/generator-sqwidget",
+  "repository": "dharmafly/generator-sqwidget",
   "author": {
     "name": "Adhip Gupta",
     "email": "hello@adhipg.in",

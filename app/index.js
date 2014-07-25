@@ -27,7 +27,7 @@ var SqwidgetGenerator = yeoman.generators.Base.extend({
 
     var prompts = [{
       name: 'widgetName',
-      message: 'Would you like to call your widget?'
+      message: 'What would you like to call your widget?'
     }];
 
     this.prompt(prompts, function (props) {
